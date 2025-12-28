@@ -1,0 +1,13 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/43e62_next_dist_fdd223c2._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__cfd4bf2b._.js")
+R.c("server/chunks/ssr/43e62_next_dist_d7e89e71._.js")
+R.c("server/chunks/ssr/[externals]__7f148858._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__283ce2a8._.js")
+R.c("server/chunks/ssr/veluna-next_app_error_tsx_a26924f2._.js")
+R.c("server/chunks/ssr/veluna-next_app_loading_tsx_481b276e._.js")
+R.c("server/chunks/ssr/veluna-next_5585deeb._.js")
+R.c("server/chunks/ssr/43e62_next_dist_client_components_0ba8f262._.js")
+R.c("server/chunks/ssr/veluna-next__next-internal_server_app__not-found_page_actions_59500187.js")
+R.m("[project]/veluna-next/node_modules/next/dist/esm/build/templates/app-page.js?page=/_not-found/page { MODULE_0 => \"[project]/veluna-next/app/layout.tsx [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_1 => \"[project]/veluna-next/app/error.tsx [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_2 => \"[project]/veluna-next/app/loading.tsx [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_3 => \"[project]/veluna-next/app/not-found.tsx [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_4 => \"[project]/veluna-next/node_modules/next/dist/client/components/builtin/forbidden.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_5 => \"[project]/veluna-next/node_modules/next/dist/client/components/builtin/unauthorized.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_6 => \"[project]/veluna-next/app/not-found.tsx [app-rsc] (ecmascript, Next.js Server Component)\" } [app-rsc] (ecmascript)")
+module.exports=R.m("[project]/veluna-next/node_modules/next/dist/esm/build/templates/app-page.js?page=/_not-found/page { MODULE_0 => \"[project]/veluna-next/app/layout.tsx [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_1 => \"[project]/veluna-next/app/error.tsx [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_2 => \"[project]/veluna-next/app/loading.tsx [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_3 => \"[project]/veluna-next/app/not-found.tsx [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_4 => \"[project]/veluna-next/node_modules/next/dist/client/components/builtin/forbidden.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_5 => \"[project]/veluna-next/node_modules/next/dist/client/components/builtin/unauthorized.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_6 => \"[project]/veluna-next/app/not-found.tsx [app-rsc] (ecmascript, Next.js Server Component)\" } [app-rsc] (ecmascript)").exports
