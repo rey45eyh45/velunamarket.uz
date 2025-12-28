@@ -5,7 +5,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
-import { productsService } from '@/services';
+import { getCategories } from '@/services';
 
 export const metadata: Metadata = {
   title: 'Kategoriyalar | Veluna Market',
@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 };
 
 export default async function CategoriesPage() {
-  const { data: categories } = await productsService.getCategories();
+  const categories = await getCategories();
 
   return (
     <div className="container mx-auto px-4 py-8">
