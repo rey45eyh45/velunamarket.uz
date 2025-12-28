@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/user/Desktop/veluna%20market/veluna-next/app/loading.tsx"],"sourcesContent":["// =====================================================\r\n// LOADING STATE\r\n// =====================================================\r\n\r\nexport default function Loading() {\r\n  return (\r\n    <div className=\"min-h-[50vh] flex items-center justify-center\">\r\n      <div className=\"text-center\">\r\n        <div className=\"w-12 h-12 border-4 border-gray-200 border-t-primary-600 rounded-full animate-spin mx-auto\" />\r\n        <p className=\"mt-4 text-gray-500\">Yuklanmoqda...</p>\r\n      </div>\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":"AAAA,wDAAwD;AACxD,gBAAgB;AAChB,wDAAwD;;;;;;;AAEzC,SAAS;IACtB,qBACE,gQAAC;QAAI,WAAU;kBACb,cAAA,gQAAC;YAAI,WAAU;;8BACb,gQAAC;oBAAI,WAAU;;;;;;8BACf,gQAAC;oBAAE,WAAU;8BAAqB;;;;;;;;;;;;;;;;;AAI1C"}}]
-}
